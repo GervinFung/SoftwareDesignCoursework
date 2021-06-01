@@ -1,0 +1,15 @@
+100000000/Sunway Lagoon(Child)(Local)/Including Water Park & Amusement Park/80.0
+100000001/Sunway Lagoon(Adult)(Local)/Including Water Park & Amusement Park/120.0
+100000002/Sunway Lagoon(Senior citizen)(Local)/Including Water Park & Amusement Park/40.0
+100000003/Sunway Lagoon(Child)(Foreign)/Including Water Park & Amusement Park/120.0
+100000004/Sunway Lagoon(Adult)(Foreign)/Including Water Park & Amusement Park/170.0
+100000005/Sunway Lagoon(Senior citizen)(Foreign)/Including Water Park & Amusement Park/80.0
+100000006/MDisnay Amusement Park(Child)(Foreign)/Including Wildlife Park & Amusement Park/90.0
+100000007/MDisnay Amusement Park(Adult)(Foreign)/Including Wildlife Park & Amusement Park/140.0
+100000008/MDisnay Amusement Park(Senior citizen)(Local)/Including Wildlife Park & Amusement Park/45.0
+100000009/MDisnay Amusement Park(Child)(Foreign)/Including Wildlife Park & Amusement Park/140.0
+100000010/MDisnay Amusement Park(Adult)(Foreign)/Including Wildlife Park & Amusement Park/180.0
+100000011/MDisnay Amusement Park(Senior citizen)(Foreign)/Including Wildlife Park & Amusement Park/85.0
+100000012/Sunway Lagoon Food Coupon(RM150.00)/-/150.0
+100000013/Sunway Lagoon Family Package Pass/For 3 adults and 2 children/400.0
+100000014/MDisnay Amusement Park Couple Package/One day pass + RM100.0 Food Coupon/300.0
